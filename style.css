@@ -1,0 +1,31 @@
+.Contain{
+     text-align: center;
+     font-size: 1em;
+     margin-top: 30px;
+}
+table{
+    margin :auto;
+}
+
+input{
+    border-radius: 4px;
+    border: 3px solid black;
+    font-size: 35px;
+    width: 466px;
+    height: 56px;
+}
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: yellow;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+.Calculator{
+    border: 4px solid rgb(217, 231, 16);
+    background-color: black;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
